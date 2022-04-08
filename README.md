@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AayushSolanki.
 - 👀 I’m interested in App Development.
-- 🌱 I’m currently learning Flutter,Kotlin,Java.
+- 🌱 I’m currently learning Kotlin,Java and Flutter.
 - 😎 I’m looking to collaborate on open source projects.
 - 📫 How to reach me -
 - 📧Email: aaayushjain2002675@gmail.com
