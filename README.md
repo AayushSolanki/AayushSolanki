@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AayushSolanki.
-- 👀 I’m interested in Web and App Development.
 - 🌱 I’m currently building "Listen to Learn" a voice synthesizing web application for a EdTech Startup.
 - 😎 I’m looking to collaborate on open source projects.
 - 📫 How to reach me -
